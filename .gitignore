@@ -1,3 +1,8 @@
 kong-data
 .postgres-data
 
+client/node_modules
+orders/node_modules
+product/node_modules
+temp]
+new-postgres-data
